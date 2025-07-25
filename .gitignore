@@ -1,0 +1,18 @@
+# Ignore .env (NE JAMAIS l’envoyer sur GitHub)
+.env
+
+# Fichiers Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Dossiers temporaires
+*.log
+*.tmp
+.DS_Store
+
+# Dossiers d'environnement virtuel
+venv/
+env/
+ENV/
