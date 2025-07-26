@@ -1,6 +1,5 @@
-flask
-python-dotenv
-openai
+torch
 transformers
-google-generativeai
+flask
 requests
+google-generativeai
