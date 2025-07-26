@@ -1,1 +1,1 @@
-worker: python3 PulseAIbot.py
+web: python3 PulseAIbot.py
